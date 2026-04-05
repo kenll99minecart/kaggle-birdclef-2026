@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all .log files
+*.log
+
+# Ignore a specific file
+config.json
+
+# Ignore sensitive environment variables
+.env
+
+# Ignore all preprocessed file and data
+*.wav
+birdclef-2026/*
